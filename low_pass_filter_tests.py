@@ -129,9 +129,9 @@ plt.plot(t[:-24:], y_ma, 'orange')
 plt.plot(t, output_value, 'yellow')
 plt.plot(t, winter_low_filtered_sig, 'pink')
 
-plt.xlabel('Time(s)')
+plt.xlabel('Time ')
 plt.ylabel('Amplitude (temp or voltage)')
-plt.title('Sine Wave')
+plt.title('Messy trig wave')
 plt.grid(True)
 plt.show()
 

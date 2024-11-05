@@ -1,2 +1,4 @@
 # Low-Pass-Filter
-passive low pass filter smoothing/denoising
+digital passive low pass filter smoothing/denoising
+
+Python file is just a tester/first draft
